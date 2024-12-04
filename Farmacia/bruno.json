@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "Farmacia",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
